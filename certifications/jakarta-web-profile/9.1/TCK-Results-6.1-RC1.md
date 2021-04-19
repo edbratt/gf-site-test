@@ -9,7 +9,7 @@ following is a summary of the TCK results for releases of Jakarta EE Platform, W
 # Jakarta EE Platform Web Profile 9.1, Eclipse GlassFish 6.1 Web Profile, Certification Summary
 
 - Product Name, Version and download URL (if applicable): <br/>
-  [Eclipse GlassFish 6.1, Web Profile](https://eclipse-ee4j.github.io/glassfish/download)
+  [Eclipse GlassFish 6.1, Web Profile](/glassfish/download)<br/>
   [web-6.1.0-RC1.zip](https://download.eclipse.org/ee4j/glassfish/web-6.1.0-RC1.zip)
 
 - Specification Name, Version and download URL: <br/>
@@ -23,9 +23,11 @@ following is a summary of the TCK results for releases of Jakarta EE Platform, W
   [TCK results summary](TCK-Results-6.1-RC1)
 
 - Any Additional Specification Certification Requirements: <br/>
-  Jakarta Dependency Injection 2.0 TCK <br/>
-  Jakarta Contexts and Dependency Injection 3.0 TCK <br/>
-  Jakarta Bean Validation 3.0 TCK <br/>
+```
+java version "11.0.7" 2020-04-14 LTS
+Java(TM) SE Runtime Environment 18.9 (build 11.0.7+8-LTS)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.7+8-LTS, mixed mode)
+```
 
 - Java runtime used to run the implementation: <br/>
 
