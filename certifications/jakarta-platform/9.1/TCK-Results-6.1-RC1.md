@@ -9,13 +9,8 @@ following is a summary of the TCK results for releases of Jakarta EE Platform 9.
 # Jakarta EE Platform 9.1, Eclipse GlassFish 6.1, TCK Certification Summary
 
 - Product Name, Version and download URL (if applicable): <br/>
-<<<<<<< HEAD
   [Eclipse GlassFish 6.1](/glassfish/download)<br/>
   [glassfish-6.1-RC1.zip](https://download.eclipse.org/ee4j/glassfish/glassfish-6.1.0-RC1.zip)
-=======
-  [Eclipse GlassFish 6.1](/glassfish/download)
-  [glassfish-6.1.zip](https://download.eclipse.org/ee4j/glassfish/glassfish-6.1.0.zip)
->>>>>>> 5537c661fdc3c3ce438c8272d84a4638aeddaff9
 
 - Specification Name, Version and download URL: <br/>
   [Jakarta EE Platform, 9.1](https://jakarta.ee/specifications/platform/9.1/)
